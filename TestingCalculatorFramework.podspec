@@ -7,6 +7,6 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author       = { 'Your Name' => 'boomibalan.b@syncfusion.com' }
   spec.platform     = :ios, '11.0'
-  spec.vendored_frameworks = 'TestingCalculatorFramework.xcframework'
+  spec.vendored_frameworks = 'TestingFramework.xcframework'
   spec.source       = { :git => 'https://github.com/boomibalanB/TestingCalculatorFramework.git', :tag => spec.version.to_s }
 end
