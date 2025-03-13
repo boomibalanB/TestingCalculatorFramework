@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'TestingCalculatorFramework'
-  spec.version      = '1.0.0'
+  spec.version      = '0.0.1'
   spec.summary      = 'A Swift Testing Calculator XCFramework for iOS'
   spec.description  = 'A simple framework built with XCFramework and published via CocoaPods'
   spec.homepage     ='https://github.com/boomibalanB/TestingCalculatorFramework.git'
